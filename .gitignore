@@ -6,6 +6,11 @@ out
 # Download this file using PowerShell v3 under Windows with the following comand
 # Invoke-WebRequest https://gist.githubusercontent.com/kmorcinek/2710267/raw/ -OutFile .gitignore
 
+*.csproj
+*.config
+*.sln
+Properties/
+
 # User-specific files
 *.suo
 *.user
